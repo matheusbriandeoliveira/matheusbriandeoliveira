@@ -19,7 +19,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 
 ### Studying in this moment:
-![React](https://img.shields.io/badge/-react-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-css-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ### Other Knowledge:
 ![Git](https://img.shields.io/badge/-git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
