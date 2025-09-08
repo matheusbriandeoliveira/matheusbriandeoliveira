@@ -10,7 +10,7 @@
 
 ## 🚀 Sobre mim
 
-Sou um **Desenvolvedor Front-End Júnior** e desenvolvo aplicações web modernas, escaláveis e responsivas. Trabalho com **React.js, TypeScript e TailwindCSS** para criar interfaces intuitivas e performáticas.
+Sou um **Desenvolvedor Full Stack** e desenvolvo aplicações web modernas, escaláveis e responsivas. Trabalho com **React.js, TypeScript e TailwindCSS** para criar interfaces intuitivas e performáticas.
 
 Tenho experiência com APIs REST, gerenciamento de estado com Context API e React Hooks, além de controle de versões com Git/GitHub. Também faço deploys otimizados na Vercel, sempre priorizando performance e boas práticas no desenvolvimento.
 
