@@ -10,9 +10,11 @@
 
 ## 🚀 Sobre mim
 
-Sou um **Desenvolvedor Full Stack** e desenvolvo aplicações web modernas, escaláveis e responsivas. Trabalho com **React.js, TypeScript e TailwindCSS** para criar interfaces intuitivas e performáticas.
+Sou Desenvolvedor **Fullstack** com experiência no desenvolvimento de interfaces modernas e integrações com **APIs REST**.
+Técnico em Desenvolvimento de Sistemas e atualmente graduando em **Análise e Desenvolvimento de Sistemas**.
 
-Tenho experiência com APIs REST, gerenciamento de estado com Context API e React Hooks, além de controle de versões com Git/GitHub. Também faço deploys otimizados na Vercel, sempre priorizando performance e boas práticas no desenvolvimento.
+Trabalho com JavaScript/TypeScript, utilizando React no frontend e Node.js no backend, aplicando boas práticas de componentização, testes, versionamento de código e integração contínua. Já atuei em plataformas white label, sempre com foco em entregar aplicações escaláveis, responsivas e eficientes..
+
 
 ---
 
@@ -20,17 +22,21 @@ Tenho experiência com APIs REST, gerenciamento de estado com Context API e Reac
 
 ## 🛠️ Tecnologias que domino
 
-![React](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-0D1117?style=for-the-badge&logo=tailwind-css&labelColor=0D1117)
+![React](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)
 
 ---
 
 ## 📌 Ferramentas e conhecimentos adicionais
 
-![Git](https://img.shields.io/badge/-Git/GitHub-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)
 ![Vercel](https://img.shields.io/badge/-Vercel-0D1117?style=for-the-badge&logo=vercel&labelColor=0D1117)
+![Firebase](https://img.shields.io/badge/-Firebase-0D1117?style=for-the-badge&logo=firebase&labelColor=0D1117)
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)
+![VSCode](https://img.shields.io/badge/-VSCode-0D1117?style=for-the-badge&logo=visualstudiocode&labelColor=0D1117)
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)
 
 ---
