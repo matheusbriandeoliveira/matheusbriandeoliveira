@@ -10,10 +10,14 @@
 
 ## 🚀 Sobre mim
 
-Sou Desenvolvedor **Fullstack** com experiência no desenvolvimento de interfaces modernas e integrações com **APIs REST**.
-Técnico em Desenvolvimento de Sistemas e atualmente graduando em **Análise e Desenvolvimento de Sistemas**.
+Sou desenvolvedor com experiência em **React, TypeScript, Node.js e TailwindCSS**, criando aplicações web e mobile com foco em performance, usabilidade e escalabilidade.  
+Venho da área de **design**, o que fortalece minha visão estética, criatividade e capacidade de transformar ideias em interfaces modernas e intuitivas.
 
-Trabalho com JavaScript/TypeScript, utilizando React no frontend e Node.js no backend, aplicando boas práticas de componentização, testes, versionamento de código e integração contínua. Já atuei em plataformas white label, sempre com foco em entregar aplicações escaláveis, responsivas e eficientes..
+Tenho conhecimento em **UX e design de interfaces utilizando Figma**, além de experiência com **Power BI**, **análise de dados** e **projetos de transformação digital**, aplicando conceitos de **People Analytics** para apoiar decisões orientadas por dados.
+
+Acredito na união entre **tecnologia, design e estratégia** para desenvolver soluções que realmente geram impacto e valor para o usuário.
+
+
 
 
 ---
@@ -29,15 +33,19 @@ Trabalho com JavaScript/TypeScript, utilizando React no frontend e Node.js no ba
 
 ---
 
-## 📌 Ferramentas e conhecimentos adicionais
+## 📊 Ferramentas e conhecimentos adicionais
 
+![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)
+![Power BI](https://img.shields.io/badge/-Power%20BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811&labelColor=0D1117)
+![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-0D1117?style=for-the-badge&logo=microsoft&logoColor=F25022&labelColor=0D1117)
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)
 ![Vercel](https://img.shields.io/badge/-Vercel-0D1117?style=for-the-badge&logo=vercel&labelColor=0D1117)
 ![Firebase](https://img.shields.io/badge/-Firebase-0D1117?style=for-the-badge&logo=firebase&labelColor=0D1117)
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)
 ![VSCode](https://img.shields.io/badge/-VSCode-0D1117?style=for-the-badge&logo=visualstudiocode&labelColor=0D1117)
-![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)
+
+
 
 ---
 
